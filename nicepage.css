@@ -36467,25 +36467,26 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
-    min-height: 153px;
+    min-height: 110px;
   }
 
   .u-header .u-image-1 {
-    margin-top: 20px;
-    margin-left: 53px;
+    margin-top: 8px;
+    margin-left: 60px;
   }
 
   .u-header .u-text-1 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: -85px;
-    margin-right: 53px;
-    margin-left: 155px;
+    margin-top: -86px;
+    margin-right: 80px;
+    margin-left: 128px;
   }
 
   .u-header .u-menu-1 {
     margin-top: -42px;
-    margin-left: 16px;
+    margin-bottom: 33px;
+    margin-left: 21px;
   }
 }
 @media (max-width: 767px) {
